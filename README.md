@@ -3,3 +3,4 @@
 - LCS of Three Strings
 - Panagram checking
 - Implement Atoi function
+- Decimal Equivalent Binary LL
