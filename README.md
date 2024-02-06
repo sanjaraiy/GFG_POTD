@@ -4,3 +4,5 @@
 - Panagram checking
 - Implement Atoi function
 - Decimal Equivalent Binary LL
+- Substraction In LL
+- Sorted Insert In Circular LL
