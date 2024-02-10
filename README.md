@@ -10,3 +10,4 @@
 - Min distance between two given nodes of a Binary Tree
 - Check if all leaves are at same level
 - Check for Children Sum Property in a Binary Tree
+- Number of paths in a matrix with k coins
