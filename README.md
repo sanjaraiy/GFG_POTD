@@ -12,4 +12,5 @@
 - Check for Children Sum Property in a Binary Tree
 - Number of paths in a matrix with k coins
 - Recamans sequence
+- Recursive sequence
 
