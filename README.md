@@ -20,3 +20,4 @@
 - Burning Tree
 - Shortest path in Undirected Graph
 - Alien Dictionary
+- Left view of Binary Tree
