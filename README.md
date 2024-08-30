@@ -22,3 +22,4 @@
 - Alien Dictionary
 - Left view of Binary Tree
 - 0/1 Knapsack
+- N-Queen Problem
