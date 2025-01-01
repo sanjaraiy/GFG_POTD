@@ -23,3 +23,6 @@
 - Left view of Binary Tree
 - 0/1 Knapsack
 - N-Queen Problem
+
+## Jan, 2025
+- Print Anagrams Together
