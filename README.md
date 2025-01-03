@@ -26,3 +26,5 @@
 
 ## Jan, 2025
 - Print Anagrams Together
+- 
+- Count Subarrays with given XOR
