@@ -28,3 +28,5 @@
 - Print Anagrams Together
 - 
 - Count Subarrays with given XOR
+-
+- Count Pairs whose sum is less than target
