@@ -30,3 +30,4 @@
 - Count Subarrays with given XOR
 -
 - Count Pairs whose sum is less than target
+- Pair with given sum in a sorted array
