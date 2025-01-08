@@ -31,3 +31,5 @@
 -
 - Count Pairs whose sum is less than target
 - Pair with given sum in a sorted array
+- Count the number of possible triangles
+
